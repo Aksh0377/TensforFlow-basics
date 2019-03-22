@@ -4,5 +4,6 @@ Follwing program Talks about :
 - Constant Nodes
 - Variable Nodes
 - PlaceHolders
-- Operational Nodes
+- Operational Nodes.
+
 You need to configure TensorFlow before you can run this following program.
